@@ -7,8 +7,6 @@ Thoughts after deciding to call it a project and move on:
 
 It was a great challenge! I got pretty close in a certain zoom setting on Chrome (80%) on a Macbook Air M4 15" when the browser window was shrunk to half of the screen (see comparison below). I initially disregarded the given font-sizes but did use them for reference on scaling things. Afterwards I realized that it's not worth resizing everything to match the original, so I just let it be the way it was.
 
-The assignment brief told us not to worry about making the layout responsive to different screen sizes and whatnot. I did realize that when the before-mentioned zoom-level was adjusted, my design quickly collapsed somewhat, which was due to my decision to cut corners and use flex instead of defining margin/padding. This was an important discovery but I still opted to let it slip, because I feel that the lesson has been learned and know where improvements are to be made. I'm quite confident I could have fixed these issues but felt that I will encounter similar situations in the future so there is no need to spend more time tinkering with them at this point.
-
 The end result comparison:
 My version on the left, original on the right.
 

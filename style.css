@@ -66,6 +66,7 @@ ul {
 .sign-up-button {
     padding: 4px 18px;
     border-radius: 6px;
+    text-wrap: nowrap;
     background-color: #3882F6;
     color: white;
 }
@@ -80,6 +81,8 @@ ul {
     color: #e5e7ebcc;
     font-size: 12px;
     width: 37.5vw;
+    padding: 0 10px;
+    text-align: center;
     flex-shrink: 0;
     display: flex;
     justify-content: center;
@@ -95,6 +98,7 @@ ul {
 }
 
 .info-header {
+    padding: 20px 0;
     display: flex;
     justify-content: center;
     font-size: 24px;
@@ -126,7 +130,7 @@ ul {
 .quote-container {
     flex: 1;
     background-color: #E5E7EB;
-    padding: 0 20vw;
+    padding: 20px 20vw;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -148,7 +152,7 @@ ul {
 }
 
 .cta-container-outer {
-    padding: 0 12.5vw;
+    padding: 20px 12.5vw;
     display: flex;
     justify-content: center;
     align-items: center;
